@@ -1,6 +1,6 @@
 ---
 title:  "Welcome to Jekyll!"
-image : "/assets/images/post/post-1.jpg"
+image : "/images/post-1.jpg"
 author: "John Doe"
 date: 2020-08-08 11:12:58 +0600
 description : "This is meta description"
