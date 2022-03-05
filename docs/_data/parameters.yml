@@ -3,8 +3,6 @@ menu:
   # main menu
   main:
   - {name: Home, url: '/'}
-  - {name: Contact, url: '/contact'}
-  - {name: Tools, url: '/tools'}
 
 ##### Dropdown menu ######
 
@@ -20,8 +18,6 @@ menu:
   # Footer menu
   footer:
   - {name: Home, url: '/'}
-  - {name: Contact, url: '/contact'}
-  - {name: Tools, url: '/tools'}
 
 
 ######################### Default Parameters ###########################
