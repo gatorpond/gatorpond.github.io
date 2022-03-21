@@ -1,7 +1,7 @@
 ####################### banner #######################################
 banner:
   enable : true
-  title : "Hi, I'm John Smith Doe. <br> I help people make the  worlds best software"
+  title : "Find the latest privacy tech news and analysis here. We dislike censorship and privacy invasion (but still report on them).<br>This is how our readers will be aware of privacy-feeder's tricks."
   image : "/assets/images/banner/illustration.svg"
   bg_image : "/assets/images/banner/banner-bg.svg"
 
