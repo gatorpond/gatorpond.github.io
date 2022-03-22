@@ -14,7 +14,7 @@ But what Facebook’s decision-makers were still unable to clarify is how it wou
 
 Having such an impactful portfolio of products under its belt, Facebook Inc. has announced its name change in October of the last year. Many were left wondering what this novel change means to Facebook’s huge user base. The company’s co-founder and CEO, Mark Zuckerberg, said about the name change at the annual Connect Conference:
 
-> ###“To reflect who we are and the future we hope to build, I’m proud to share that our company is now Meta. I used to study Classics, and the word “meta” comes from the Greek word meaning “beyond.” For me, it symbolizes that there is always more to build, and there is always a next chapter to the story.”###
+> **“To reflect who we are and the future we hope to build, I’m proud to share that our company is now Meta. I used to study Classics, and the word “meta” comes from the Greek word meaning “beyond.” For me, it symbolizes that there is always more to build, and there is always a next chapter to the story.”**
 
 This is indeed not a trivial coming out of the genius of Mark Zuckerberg. Meta Inc., which with all its apps also known as Metaverse, finally takes the old Facebook into the world of virtual and augmented reality. For tech-enthusiasts and Gen Z/Millennials, this was about the time when the combination of virtual/augmented realities should be employed in communication. 
 
