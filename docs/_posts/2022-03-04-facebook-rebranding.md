@@ -12,7 +12,7 @@ But what Facebook’s decision-makers were still unable to clarify is how it wou
 
 ## Meta Inc – The Owner of Facebook, Messenger, WhatsApp, Instagram, Oculus & Others
 
-Having such an impactful portfolio of products under its belt, Facebook Inc. has announced its name change in October of the last year. Many were left wondering what this novel change means to Facebook’s huge user base. The company’s co-founder and CEO, Mark Zuckerberg, said about the name change at the annual Connect Conference:
+    Having such an impactful portfolio of products under its belt, Facebook Inc. has announced its name change in October of the last year. Many were left wondering what this novel change means to Facebook’s huge user base. The company’s co-founder and CEO, Mark Zuckerberg, said about the name change at the annual Connect Conference:
 
 > **“To reflect who we are and the future we hope to build, I’m proud to share that our company is now Meta. I used to study Classics, and the word “meta” comes from the Greek word meaning “beyond.” For me, it symbolizes that there is always more to build, and there is always a next chapter to the story.”**
 
