@@ -3,8 +3,10 @@ title : "Facebook’s Rebranding into Meta Inc: Will It Solve the Privacy Issues
 date: 2022-03-04 11:12:58 +0600
 description : "Facebook’s turning into a Metaverse seems completely logical for the world’s biggest social media firm. But will this revolutionary progress tackle the age-old concern about privacy?"
 tags : ["Meta"]["Facebook"]["Privacy"]["Data"]
-![Facebook Meta Privacy Issues](/images/Facebook_rebranding_into_Meta_Inc_privacy_issues.png)
+
 ---
+![Facebook Meta Privacy Issues](/images/Facebook_rebranding_into_Meta_Inc_privacy_issues.png)
+
 Facebook Inc., the parent company of Facebook, has decided to change its name and company’s vision to Meta Inc. For the world’s biggest social media and communication services provider, this is only the best step going forward into the 21st century’s digital revolution. For many of its users worldwide, this news has been stunning, confusing, wondering, and quite perplexing because modernistic name such as Meta holds many virtual probabilities in the future.
 
 But what Facebook’s decision-makers were still unable to clarify is how it would impact, and resolve, the ever-plaguing issue of privacy and sanctity of PII (personally identifiable information). Over the years, Facebook has brought many great and welcoming changes to the arena of social media and online communication. It has been equally disastrous when it comes to user privacy in all those years as well. In this narrative, we will try to decipher how the all-new Meta Inc. will be able to resolve privacy issues that are inherited from its former self Facebook inc. 
