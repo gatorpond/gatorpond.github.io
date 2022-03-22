@@ -9,6 +9,8 @@ Facebook Inc., the parent company of Facebook, has decided to change its name an
 
 But what Facebook’s decision-makers were still unable to clarify is how it would impact, and resolve, the ever-plaguing issue of privacy and sanctity of PII (personally identifiable information). Over the years, Facebook has brought many great and welcoming changes to the arena of social media and online communication. It has been equally disastrous when it comes to user privacy in all those years as well. In this narrative, we will try to decipher how the all-new Meta Inc. will be able to resolve privacy issues that are inherited from its former self Facebook inc. 
 
+![Facebook Meta Privacy Issues](/images/Facebook_rebranding_into_Meta_Inc_privacy_issues.png)
+
 
 ## Meta Inc – The Owner of Facebook, Messenger, WhatsApp, Instagram, Oculus & Others
 
