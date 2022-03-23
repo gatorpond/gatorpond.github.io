@@ -32,7 +32,7 @@ google_analitycs_id : "" # your id
 # contact form action
 contact_form_action : "#" # contact form works with : https://formspree.io
 # copyright
-copyright : "Copyright &copy; Uncensored Technology authors."
+copyright : "Copyright &copy; Uncensored Technology"
 
 # preloader
 preloader:
