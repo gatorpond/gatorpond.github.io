@@ -1,9 +1,8 @@
 ---
-title : "Facebook’s Rebranding into Meta Inc: Will It Solve the Privacy Issues?"
+layout: post
 date: 2022-03-04 11:12:58 +0600
+title: "Facebook’s Rebranding into Meta Inc: Will It Solve the Privacy Issues?"
 description : "Facebook’s turning into a Metaverse seems completely logical for the world’s biggest social media firm. But will this revolutionary progress tackle the age-old concern about privacy?"
-tags : ["Meta"]["Facebook"]["Privacy"]["Data"]
-
 ---
 ![Facebook Meta Privacy Issues](/images/Facebook_rebranding_into_Meta_Inc_privacy_issues.png)
 
