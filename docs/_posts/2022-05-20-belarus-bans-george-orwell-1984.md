@@ -12,6 +12,8 @@ As is confirmed by the Belarusian media outlets, Belarusian publishing authoriti
 
 The reason for banning Orwell’s anti-utopian novel is its sharp and stark presentation of a totalitarian society, in which the author shows how an individual’s freedom and dignity are stripped by totalitarian and authoritarian regimes. The Belarusian media regulatory authority has even detained a publisher named Andrey Yanushkevich and a bookstore employee Nasta Karnatskaya searching their store and apartment. The state security force has found and confiscated over 200 copies of the book.
 
+## Publishers Sacked By the Belarusian Authorities for Selling "1984"
+
 Andrey Yanushkevich’s publishing house has republished the novel in the Belarusian language in 2020 and 2021, notwithstanding the current situation of war in Ukraine with Russia and Belarus's support of Russia in this ongoing conflict. Due to this, the Yanushkevich publishing house and the owner’s home were raided by the state police of Belarus, and both Andrey and his colleague were detained.
 After this incident, another publishing house by the name of Knigavka has its doors also closed.
 
