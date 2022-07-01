@@ -5,6 +5,8 @@ title: "Online Privacy Bill Passes by The U.S. House Committee After Many Hiccup
 seo_title: "Online Privacy Bill Passes by The U.S. House Committee After Many Hiccups | Uncensored Tech"
 description : "After being blocked by the lobbying of tech companies for months and months, the U.S. House of Representatives has finally passed the bipartisan online privacy bill this Thursday."
 ---
+[Online privacy bill passed by the US house comittee - uncensoredtech](images/Online privacy bill passed by the US house comittee - uncensoredtech.png)
+
 After being blocked by the lobbying of tech companies for months and months, the U.S. House of Representatives has finally passed the bipartisan online privacy bill this Thursday. This privacy bill is aimed at curtailing the unnecessary collection of personal consumer data by the tech giants when providing internet-based services. 
 This online privacy bill explicitly stops companies like Google, Apple, Facebook, and others of the top league to avoid collecting sensitive information, like Social Security numbers, to further protect personal consumer data.
 
