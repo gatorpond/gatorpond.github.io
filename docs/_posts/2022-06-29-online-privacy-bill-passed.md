@@ -19,6 +19,6 @@ Another instance where the debate over the privacy bill raged was whether the fe
 
 Despite its appreciative progress after months of blockades from the tech opponents, the fate of the online privacy bill remains uncertain. This is not only because of the strong opponent-ship of big tech firms, but the privacy bill also draws criticism from renowned Democrat senator Maria Cantwell. According to Ms. Cantwell, the bill currently does not have sufficient enforcement material in it.
 
->“People who want to get a bill know that you can’t preempt states with a weak federal standard, so hopefully they’ll come back to the table,” says Ms. Cantwell, one of the opponents of the bipartisan online privacy bill.> 
+>“People who want to get a bill know that you can’t preempt states with a weak federal standard, so hopefully they’ll come back to the table,” says Ms. Cantwell, one of the opponents of the bipartisan online privacy bill. 
 
 This online privacy bill has so far the backup of both Democrat and Republican senators such as Frank Pallone, Jan Schakowsky, Cathy McMorris, and Gus Bilirakis. But despite such proponents, the online privacy bill’s fate is still far from being certain as to how this bill will be implemented nationally across the United States.
