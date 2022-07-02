@@ -2,8 +2,9 @@
 banner:
   enable : true
   title : "Find the latest privacy tech news and analysis here. We dislike censorship and privacy invasion (but still report on them).<br>This is how our readers will be aware of privacy-feeder's tricks."
-  image : "/assets/images/banner/illustration.png"
-  bg_image : "/assets/images/banner/banner-bg.svg"
+  image : "https://user-images.githubusercontent.com/101736258/176986664-e6b25997-f1ca-4e6d-95d2-449991103f15.png"
+
+  bg_image : "https://user-images.githubusercontent.com/101736258/176986664-e6b25997-f1ca-4e6d-95d2-449991103f15.png"
 
 
 ######################## call to action ###############################
