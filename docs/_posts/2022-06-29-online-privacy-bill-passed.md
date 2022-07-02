@@ -5,7 +5,7 @@ title: "Online Privacy Bill Passes by The U.S. House Committee After Many Hiccup
 seo_title: "Online Privacy Bill Passes by The U.S. House Committee After Many Hiccups | Uncensored Tech"
 description : "After being blocked by the lobbying of tech companies for months and months, the U.S. House of Representatives has finally passed the bipartisan online privacy bill this Thursday."
 ---
-![Online privacy bill passed by the US house comittee - uncensoredtech](https://user-images.githubusercontent.com/101736258/176805810-9a99beab-989f-46d7-ae78-81cedf30a8a7.png)
+![Online privacy bill passed by the US house comittee - uncensoredtech](https://user-images.githubusercontent.com/101736258/176986259-f71ad85e-f7d8-4095-a32b-192e90b88365.png)
 
 
 After being blocked by the lobbying of tech companies for months and months, the U.S. House of Representatives has finally passed the bipartisan online privacy bill this Thursday. This privacy bill is aimed at curtailing the unnecessary collection of personal consumer data by the tech giants when providing internet-based services. 
@@ -22,10 +22,10 @@ Another instance where the debate over the privacy bill raged was whether the fe
 
 ## Uncertainty Still Prevails
 
-Despite its appreciative progress after months of blockades from the tech opponents, the fate of the online privacy bill remains uncertain. This is not only because of the strong opponent-ship of big tech firms, but the privacy bill also draws criticism from renowned Democrat senator Maria Cantwell. 
+Despite its appreciative progress after months of blockades from the "BigTech" opponents, the fate of the online privacy bill remains uncertain. This is not only because of the strong opponent-ship of big tech firms, but the privacy bill also draws criticism from renowned Democrat senator Maria Cantwell. 
 
 According to Ms. Cantwell, the bill currently does not have sufficient enforcement material in it.
 
 >“People who want to get a bill know that you can’t preempt states with a weak federal standard, so hopefully they’ll come back to the table,” says Ms. Cantwell, one of the opponents of the bipartisan online privacy bill. 
 
-This online privacy bill has so far the backup of both Democrat and Republican senators such as Frank Pallone, Jan Schakowsky, Cathy McMorris, and Gus Bilirakis. But despite such proponents, the online privacy bill’s fate is still far from being certain as to how this bill will be implemented nationally across the United States.
+This online privacy bill has so far the backup of both Democrat and Republican senators such as Frank Pallone, Jan Schakowsky, Cathy McMorris, and Gus Bilirakis. But despite such proponents, the online privacy bill’s fate is still far from certain as to how this bill will be implemented nationally across the United States.
