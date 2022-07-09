@@ -5,7 +5,7 @@ title: "Belarus Bans George Orwell’s Renowned Novel 1984"
 seo_title: "Belarus Bans George Orwell’s Renowned Novel 1984 | Uncensored Tech"
 description: "In what is supposed to be the latest assault on freedom of choice by the bordering Russian nation, Belarus has banned George Orwell’s famous dystopian novel “1984” in the entire country."
 ---
-![Belarus Bans George Orwell’s 1984](/images/Belarus-Bans-George-Orwell-1984-Novel.png)
+![Belarus Bans George Orwell's 1984 Novel](https://user-images.githubusercontent.com/101736258/178123995-7d57a632-c77f-4fcc-a06a-068751951ea6.png)
 
 In what is supposed to be the latest assault on freedom of choice by the bordering Russian nation, Belarus has banned George Orwell’s famous dystopian novel “1984” in the entire country. “1984” is a highly popular novel by the celebrated British author George Orwell, who also wrote the hugely popular “Animal Farm.”
 As is confirmed by the Belarusian media outlets, Belarusian publishing authorities have instructed publishers countrywide to withdraw Orwell’s “1984” from bookshelves and sales. The order has come into force by May 19th. The book was available in English and Russian-language versions on bookstalls, as well as available in some online bookstores too.
