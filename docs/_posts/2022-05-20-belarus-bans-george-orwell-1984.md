@@ -3,7 +3,7 @@ layout: post
 date: 2022-05-20 14:25:58 +0600
 title: "Belarus Bans George Orwell’s Renowned Novel 1984"
 seo_title: "Belarus Bans George Orwell’s Renowned Novel 1984 | Uncensored Tech"
-description : "In what is supposed to be the latest assault on freedom of choice by the bordering Russian nation, Belarus has banned George Orwell’s famous dystopian novel “1984” in the entire country."
+description: "In what is supposed to be the latest assault on freedom of choice by the bordering Russian nation, Belarus has banned George Orwell’s famous dystopian novel “1984” in the entire country."
 ---
 ![Belarus Bans George Orwell’s 1984](/images/Belarus-Bans-George-Orwell-1984-Novel.png)
 
